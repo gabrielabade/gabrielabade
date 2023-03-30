@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou a Gabriela Bade 😎
+Atualmente estou aprendendo e criando projetos com:
+    - HTML
+    - CSS
+
 
 <!--
 **gabrielabade/gabrielabade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
