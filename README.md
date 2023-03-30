@@ -17,4 +17,18 @@ Minhas redes sociais:
 <a href="https://www.instagram.com/incrivilhosa/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"></a>
 <a href="https://www.facebook.com/GabrielaBaptistaBade/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-logo"></a>
 
+<!--
+[![Gabriela stats](https://github-readme-stats.vercel.app/api?username=gabrielabade)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+
+<br>
+<br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielabade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
