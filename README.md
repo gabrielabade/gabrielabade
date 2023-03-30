@@ -7,7 +7,7 @@
 
 ### Atualmente estou aprendendo e criando projetos com:
 <br>
-<
+
 <img src="https://geoinnova.org/wp-content/uploads/2021/08/logos.png" width="250px" alt="logo-html-css-js"/>
 
 <!-- 
