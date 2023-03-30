@@ -1,7 +1,7 @@
 ### Olá, eu sou a Gabriela Bade 😎
 Atualmente estou aprendendo e criando projetos com:
-    - HTML
-    - CSS
+    * HTML
+    * CSS
 
 
 <!--
