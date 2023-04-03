@@ -5,7 +5,9 @@
 <br>
 <br>
 
- Atualmente estou aprendendo e criando projetos com:
+Atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <!--
@@ -25,7 +27,7 @@
 
 <br>
 <br>
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielabade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
