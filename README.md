@@ -39,7 +39,10 @@ Atualmente estou aprendendo e criando projetos com:
 <a href="https://www.linkedin.com/in/gabriela-bade/"> <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="linkedin-logo" width="35px"></a>
 <a href="https://www.instagram.com/incrivilhosa/"> <img src="https://cdn-icons-png.flaticon.com/512/4494/4494488.png" alt="instagram-logo" width="35px"></a>
 <a href="https://www.facebook.com/GabrielaBaptistaBade/"> <img src="https://cdn-icons-png.flaticon.com/512/4494/4494475.png" alt="facebook-logo" width="35px"></a>
-
+<br>
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=gabrielabade&label=PROFILE+VIEWS&color=ff69b4)
 
 </div>
 
