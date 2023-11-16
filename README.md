@@ -38,9 +38,6 @@ Atualmente estou aprendendo e criando projetos com:
 
 <a href="https://www.linkedin.com/in/gabriela-bade/"> <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="linkedin-logo" width="35px"></a>
 
-<br>
-<br>
-<br>
 ![](https://komarev.com/ghpvc/?username=gabrielabade&label=PROFILE+VIEWS&color=ff69b4)
 
 </div>
