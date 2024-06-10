@@ -37,6 +37,10 @@ Atualmente estou aprendendo e criando projetos com:
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/gabriela-bade/"> <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="linkedin-logo" width="35px"></a>
+<a href="https://wa.me/5548991056014"> <img src="https://github.com/gabrielabade/gabrielabade/assets/129114102/fe61333e-f51d-4691-9558-d8b718253424" alt="whats-logo" width="35px"></a>
+<a href="mailto:gabriela.bade@hotmail.com" > <img src="https://github.com/gabrielabade/gabrielabade/assets/129114102/28369248-6b18-44ac-bc20-786f8ddcd424" alt="email-logo" width="35px"></a>
+
+
 
 ![](https://komarev.com/ghpvc/?username=gabrielabade&label=PROFILE+VIEWS&color=ff69b4)
 
