@@ -9,7 +9,7 @@ Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,git,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,github,git,docker,postgresql,mongodb,linux)](https://skillicons.dev)
 <!--
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
