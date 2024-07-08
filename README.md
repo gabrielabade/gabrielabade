@@ -1,9 +1,7 @@
 <div align="center">
-
-### Hello People,
-### I'm Gabriela Bade 😎
-<br>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFCFE9"/>
+ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E4C98&random=false&width=435&lines=Hello+People%2C+I'm+Gabriela+Bade+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
 Atualmente estou aprendendo e criando projetos com:
 <br>
@@ -44,7 +42,9 @@ Atualmente estou aprendendo e criando projetos com:
 
 ![](https://komarev.com/ghpvc/?username=gabrielabade&label=PROFILE+VIEWS&color=ff69b4)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielabade&theme=Default)](https://github.com/gabrielabade/github-readme-activity-graph)
+<a href="https://github.com/gabrielabade/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielabade&theme=Default" alt="Ashutosh's github activity graph" style="width: 50vw; height: 30vh;">
+</a>
 
 </div>
 
