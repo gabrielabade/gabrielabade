@@ -29,7 +29,7 @@ Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielabade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielabade&layout=compact)](https://github.com/gabrielabade/github-readme-stats)
 <br>
 <br>
 <br>
@@ -43,6 +43,8 @@ Atualmente estou aprendendo e criando projetos com:
 
 
 ![](https://komarev.com/ghpvc/?username=gabrielabade&label=PROFILE+VIEWS&color=ff69b4)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielabade&theme=Default)](https://github.com/gabrielabade/github-readme-activity-graph)
 
 </div>
 
